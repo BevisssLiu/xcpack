@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exportProvisioningProfile</key>
+	<string>&lt;write a name you want &gt;</string>
+	<key>uploadBitcode</key>
+	<false/>
+	<key>uploadSymbols</key>
+	<false/>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>compileBitcode</key>
+	<false/>
+	<key>teamID</key>
+	<string>&lt;open keychain, find it in your certificate  &gt;</string>
+</dict>
+</plist>
